@@ -10,8 +10,8 @@
 ## Projeto agendamento de consulta Hospitalar
 
 1- va no seu banco de dados crie um banco.
-
 2- va no .env do laravel e passe DB_DATABASE, DB_USERNAME , DB_PASSWORD.
+
 ![image](https://user-images.githubusercontent.com/81827714/189545957-25f56ef1-41ae-46e3-82d3-5b134539a8c8.png)
 
 3- rode o comando php artisan db:seed com esse comando ele vai rodar o SEEDERS que se encontra em database/seeders com isso vai gerar os logins na tabela USERS
