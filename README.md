@@ -28,8 +28,8 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 
 {
 	"info": {
-		"_postman_id": "08123c28-bb34-4dc9-aeaf-c19fa4eae3bb",
-		"name": "agendamento_tisaude-homologacao",
+		"_postman_id": "cd25515c-aa82-4a6d-8485-496101905fee",
+		"name": "agendamento_tisaude",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "19379896"
 	},
@@ -58,13 +58,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 							]
 						},
 						"url": {
-							"raw": "http://homologacao-teste.audax.mobi/api/login",
-							"protocol": "http",
+							"raw": "127.0.0.1:8000/api/login",
 							"host": [
-								"homologacao-teste",
-								"audax",
-								"mobi"
+								"127",
+								"0",
+								"0",
+								"1"
 							],
+							"port": "8000",
 							"path": [
 								"api",
 								"login"
@@ -110,13 +111,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 							]
 						},
 						"url": {
-							"raw": "http://homologacao-teste.audax.mobi/api/adm/cadastro/especialidade",
-							"protocol": "http",
+							"raw": "127.0.0.1:8000/api/adm/cadastro/especialidade",
 							"host": [
-								"homologacao-teste",
-								"audax",
-								"mobi"
+								"127",
+								"0",
+								"0",
+								"1"
 							],
+							"port": "8000",
 							"path": [
 								"api",
 								"adm",
@@ -166,13 +168,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 							]
 						},
 						"url": {
-							"raw": "http://homologacao-teste.audax.mobi/api/adm/cadastro/especialidade/1",
-							"protocol": "http",
+							"raw": "127.0.0.1:8000/api/adm/cadastro/especialidade/1",
 							"host": [
-								"homologacao-teste",
-								"audax",
-								"mobi"
+								"127",
+								"0",
+								"0",
+								"1"
 							],
+							"port": "8000",
 							"path": [
 								"api",
 								"adm",
@@ -205,13 +208,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 							"urlencoded": []
 						},
 						"url": {
-							"raw": "http://homologacao-teste.audax.mobi/api/adm/cadastro/especialidade/5",
-							"protocol": "http",
+							"raw": "127.0.0.1:8000/api/adm/cadastro/especialidade/5",
 							"host": [
-								"homologacao-teste",
-								"audax",
-								"mobi"
+								"127",
+								"0",
+								"0",
+								"1"
 							],
+							"port": "8000",
 							"path": [
 								"api",
 								"adm",
@@ -247,13 +251,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 							"urlencoded": []
 						},
 						"url": {
-							"raw": "http://homologacao-teste.audax.mobi/api/adm/cadastro/especialidade/1",
-							"protocol": "http",
+							"raw": "127.0.0.1:8000/api/adm/cadastro/especialidade/1",
 							"host": [
-								"homologacao-teste",
-								"audax",
-								"mobi"
+								"127",
+								"0",
+								"0",
+								"1"
 							],
+							"port": "8000",
 							"path": [
 								"api",
 								"adm",
@@ -289,13 +294,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 							"urlencoded": []
 						},
 						"url": {
-							"raw": "http://homologacao-teste.audax.mobi/api/adm/cadastro/especialidade",
-							"protocol": "http",
+							"raw": "127.0.0.1:8000/api/adm/cadastro/especialidade",
 							"host": [
-								"homologacao-teste",
-								"audax",
-								"mobi"
+								"127",
+								"0",
+								"0",
+								"1"
 							],
+							"port": "8000",
 							"path": [
 								"api",
 								"adm",
@@ -353,13 +359,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 							]
 						},
 						"url": {
-							"raw": "http://homologacao-teste.audax.mobi/api/adm/cadastro/medico",
-							"protocol": "http",
+							"raw": "127.0.0.1:8000/api/adm/cadastro/medico",
 							"host": [
-								"homologacao-teste",
-								"audax",
-								"mobi"
+								"127",
+								"0",
+								"0",
+								"1"
 							],
+							"port": "8000",
 							"path": [
 								"api",
 								"adm",
@@ -418,13 +425,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 							]
 						},
 						"url": {
-							"raw": "http://homologacao-teste.audax.mobi/api/adm/cadastro/medico/1",
-							"protocol": "http",
+							"raw": "127.0.0.1:8000/api/adm/cadastro/medico/1",
 							"host": [
-								"homologacao-teste",
-								"audax",
-								"mobi"
+								"127",
+								"0",
+								"0",
+								"1"
 							],
+							"port": "8000",
 							"path": [
 								"api",
 								"adm",
@@ -457,13 +465,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 							"urlencoded": []
 						},
 						"url": {
-							"raw": "http://homologacao-teste.audax.mobi/api/adm/cadastro/medico/5",
-							"protocol": "http",
+							"raw": "127.0.0.1:8000/api/adm/cadastro/medico/5",
 							"host": [
-								"homologacao-teste",
-								"audax",
-								"mobi"
+								"127",
+								"0",
+								"0",
+								"1"
 							],
+							"port": "8000",
 							"path": [
 								"api",
 								"adm",
@@ -499,13 +508,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 							"urlencoded": []
 						},
 						"url": {
-							"raw": "http://homologacao-teste.audax.mobi/api/adm/cadastro/medico/4",
-							"protocol": "http",
+							"raw": "127.0.0.1:8000/api/adm/cadastro/medico/4",
 							"host": [
-								"homologacao-teste",
-								"audax",
-								"mobi"
+								"127",
+								"0",
+								"0",
+								"1"
 							],
+							"port": "8000",
 							"path": [
 								"api",
 								"adm",
@@ -541,13 +551,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 							"urlencoded": []
 						},
 						"url": {
-							"raw": "http://homologacao-teste.audax.mobi/api/adm/cadastro/medico",
-							"protocol": "http",
+							"raw": "127.0.0.1:8000/api/adm/cadastro/medico",
 							"host": [
-								"homologacao-teste",
-								"audax",
-								"mobi"
+								"127",
+								"0",
+								"0",
+								"1"
 							],
+							"port": "8000",
 							"path": [
 								"api",
 								"adm",
@@ -605,13 +616,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 							]
 						},
 						"url": {
-							"raw": "http://homologacao-teste.audax.mobi/api/adm/cadastro/planosaude",
-							"protocol": "http",
+							"raw": "127.0.0.1:8000/api/adm/cadastro/planosaude",
 							"host": [
-								"homologacao-teste",
-								"audax",
-								"mobi"
+								"127",
+								"0",
+								"0",
+								"1"
 							],
+							"port": "8000",
 							"path": [
 								"api",
 								"adm",
@@ -670,13 +682,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 							]
 						},
 						"url": {
-							"raw": "http://homologacao-teste.audax.mobi/api/adm/cadastro/planosaude/5",
-							"protocol": "http",
+							"raw": "127.0.0.1:8000/api/adm/cadastro/planosaude/5",
 							"host": [
-								"homologacao-teste",
-								"audax",
-								"mobi"
+								"127",
+								"0",
+								"0",
+								"1"
 							],
+							"port": "8000",
 							"path": [
 								"api",
 								"adm",
@@ -733,13 +746,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 							]
 						},
 						"url": {
-							"raw": "http://homologacao-teste.audax.mobi/api/adm/cadastro/planosaude/4",
-							"protocol": "http",
+							"raw": "127.0.0.1:8000/api/adm/cadastro/planosaude/4",
 							"host": [
-								"homologacao-teste",
-								"audax",
-								"mobi"
+								"127",
+								"0",
+								"0",
+								"1"
 							],
+							"port": "8000",
 							"path": [
 								"api",
 								"adm",
@@ -775,13 +789,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 							"urlencoded": []
 						},
 						"url": {
-							"raw": "http://homologacao-teste.audax.mobi/api/adm/cadastro/planosaude/4",
-							"protocol": "http",
+							"raw": "127.0.0.1:8000/api/adm/cadastro/planosaude/4",
 							"host": [
-								"homologacao-teste",
-								"audax",
-								"mobi"
+								"127",
+								"0",
+								"0",
+								"1"
 							],
+							"port": "8000",
 							"path": [
 								"api",
 								"adm",
@@ -817,13 +832,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 							"urlencoded": []
 						},
 						"url": {
-							"raw": "http://homologacao-teste.audax.mobi/api/adm/cadastro/planosaude",
-							"protocol": "http",
+							"raw": "127.0.0.1:8000/api/adm/cadastro/planosaude",
 							"host": [
-								"homologacao-teste",
-								"audax",
-								"mobi"
+								"127",
+								"0",
+								"0",
+								"1"
 							],
+							"port": "8000",
 							"path": [
 								"api",
 								"adm",
@@ -891,13 +907,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 							]
 						},
 						"url": {
-							"raw": "http://homologacao-teste.audax.mobi/api/adm/cadastro/paciente",
-							"protocol": "http",
+							"raw": "127.0.0.1:8000/api/adm/cadastro/paciente",
 							"host": [
-								"homologacao-teste",
-								"audax",
-								"mobi"
+								"127",
+								"0",
+								"0",
+								"1"
 							],
+							"port": "8000",
 							"path": [
 								"api",
 								"adm",
@@ -965,13 +982,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 							]
 						},
 						"url": {
-							"raw": "http://homologacao-teste.audax.mobi/api/adm/cadastro/paciente/3",
-							"protocol": "http",
+							"raw": "127.0.0.1:8000/api/adm/cadastro/paciente/3",
 							"host": [
-								"homologacao-teste",
-								"audax",
-								"mobi"
+								"127",
+								"0",
+								"0",
+								"1"
 							],
+							"port": "8000",
 							"path": [
 								"api",
 								"adm",
@@ -1007,13 +1025,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 							"urlencoded": []
 						},
 						"url": {
-							"raw": "http://homologacao-teste.audax.mobi/api/adm/cadastro/paciente/1",
-							"protocol": "http",
+							"raw": "127.0.0.1:8000/api/adm/cadastro/paciente/1",
 							"host": [
-								"homologacao-teste",
-								"audax",
-								"mobi"
+								"127",
+								"0",
+								"0",
+								"1"
 							],
+							"port": "8000",
 							"path": [
 								"api",
 								"adm",
@@ -1046,13 +1065,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 							"urlencoded": []
 						},
 						"url": {
-							"raw": "http://homologacao-teste.audax.mobi/api/adm/cadastro/paciente/3",
-							"protocol": "http",
+							"raw": "127.0.0.1:8000/api/adm/cadastro/paciente/3",
 							"host": [
-								"homologacao-teste",
-								"audax",
-								"mobi"
+								"127",
+								"0",
+								"0",
+								"1"
 							],
+							"port": "8000",
 							"path": [
 								"api",
 								"adm",
@@ -1088,13 +1108,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 							"urlencoded": []
 						},
 						"url": {
-							"raw": "http://homologacao-teste.audax.mobi/api/adm/cadastro/paciente",
-							"protocol": "http",
+							"raw": "127.0.0.1:8000/api/adm/cadastro/paciente",
 							"host": [
-								"homologacao-teste",
-								"audax",
-								"mobi"
+								"127",
+								"0",
+								"0",
+								"1"
 							],
+							"port": "8000",
 							"path": [
 								"api",
 								"adm",
@@ -1207,13 +1228,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 							]
 						},
 						"url": {
-							"raw": "http://homologacao-teste.audax.mobi/api/adm/cadastro/procedimento",
-							"protocol": "http",
+							"raw": "127.0.0.1:8000/api/adm/cadastro/procedimento",
 							"host": [
-								"homologacao-teste",
-								"audax",
-								"mobi"
+								"127",
+								"0",
+								"0",
+								"1"
 							],
+							"port": "8000",
 							"path": [
 								"api",
 								"adm",
@@ -1271,13 +1293,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 							]
 						},
 						"url": {
-							"raw": "http://homologacao-teste.audax.mobi/api/adm/cadastro/procedimento/4",
-							"protocol": "http",
+							"raw": "127.0.0.1:8000/api/adm/cadastro/procedimento/4",
 							"host": [
-								"homologacao-teste",
-								"audax",
-								"mobi"
+								"127",
+								"0",
+								"0",
+								"1"
 							],
+							"port": "8000",
 							"path": [
 								"api",
 								"adm",
@@ -1310,13 +1333,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 							"urlencoded": []
 						},
 						"url": {
-							"raw": "http://homologacao-teste.audax.mobi/api/adm/cadastro/procedimento/4",
-							"protocol": "http",
+							"raw": "127.0.0.1:8000/api/adm/cadastro/procedimento/4",
 							"host": [
-								"homologacao-teste",
-								"audax",
-								"mobi"
+								"127",
+								"0",
+								"0",
+								"1"
 							],
+							"port": "8000",
 							"path": [
 								"api",
 								"adm",
@@ -1352,13 +1376,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 							"urlencoded": []
 						},
 						"url": {
-							"raw": "http://homologacao-teste.audax.mobi/api/adm/cadastro/procedimento/3",
-							"protocol": "http",
+							"raw": "127.0.0.1:8000/api/adm/cadastro/procedimento/3",
 							"host": [
-								"homologacao-teste",
-								"audax",
-								"mobi"
+								"127",
+								"0",
+								"0",
+								"1"
 							],
+							"port": "8000",
 							"path": [
 								"api",
 								"adm",
@@ -1394,13 +1419,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 							"urlencoded": []
 						},
 						"url": {
-							"raw": "http://homologacao-teste.audax.mobi/api/adm/cadastro/procedimento",
-							"protocol": "http",
+							"raw": "127.0.0.1:8000/api/adm/cadastro/procedimento",
 							"host": [
-								"homologacao-teste",
-								"audax",
-								"mobi"
+								"127",
+								"0",
+								"0",
+								"1"
 							],
+							"port": "8000",
 							"path": [
 								"api",
 								"adm",
@@ -1463,13 +1489,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 							]
 						},
 						"url": {
-							"raw": "http://homologacao-teste.audax.mobi/api/adm/cadastro/consulta",
-							"protocol": "http",
+							"raw": "127.0.0.1:8000/api/adm/cadastro/consulta",
 							"host": [
-								"homologacao-teste",
-								"audax",
-								"mobi"
+								"127",
+								"0",
+								"0",
+								"1"
 							],
+							"port": "8000",
 							"path": [
 								"api",
 								"adm",
@@ -1532,13 +1559,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 							]
 						},
 						"url": {
-							"raw": "http://homologacao-teste.audax.mobi/api/adm/cadastro/consulta/7",
-							"protocol": "http",
+							"raw": "127.0.0.1:8000/api/adm/cadastro/consulta/7",
 							"host": [
-								"homologacao-teste",
-								"audax",
-								"mobi"
+								"127",
+								"0",
+								"0",
+								"1"
 							],
+							"port": "8000",
 							"path": [
 								"api",
 								"adm",
@@ -1571,13 +1599,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 							"urlencoded": []
 						},
 						"url": {
-							"raw": "http://homologacao-teste.audax.mobi/api/adm/cadastro/consulta/7",
-							"protocol": "http",
+							"raw": "127.0.0.1:8000/api/adm/cadastro/consulta/7",
 							"host": [
-								"homologacao-teste",
-								"audax",
-								"mobi"
+								"127",
+								"0",
+								"0",
+								"1"
 							],
+							"port": "8000",
 							"path": [
 								"api",
 								"adm",
@@ -1613,13 +1642,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 							"urlencoded": []
 						},
 						"url": {
-							"raw": "http://homologacao-teste.audax.mobi/api/adm/cadastro/consulta/5",
-							"protocol": "http",
+							"raw": "127.0.0.1:8000/api/adm/cadastro/consulta/5",
 							"host": [
-								"homologacao-teste",
-								"audax",
-								"mobi"
+								"127",
+								"0",
+								"0",
+								"1"
 							],
+							"port": "8000",
 							"path": [
 								"api",
 								"adm",
@@ -1655,13 +1685,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 							"urlencoded": []
 						},
 						"url": {
-							"raw": "http://homologacao-teste.audax.mobi/api/adm/cadastro/consulta",
-							"protocol": "http",
+							"raw": "127.0.0.1:8000/api/adm/cadastro/consulta",
 							"host": [
-								"homologacao-teste",
-								"audax",
-								"mobi"
+								"127",
+								"0",
+								"0",
+								"1"
 							],
+							"port": "8000",
 							"path": [
 								"api",
 								"adm",
@@ -1709,13 +1740,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 							]
 						},
 						"url": {
-							"raw": "http://homologacao-teste.audax.mobi/api/adm/cadastro/cons_proc",
-							"protocol": "http",
+							"raw": "127.0.0.1:8000/api/adm/cadastro/cons_proc",
 							"host": [
-								"homologacao-teste",
-								"audax",
-								"mobi"
+								"127",
+								"0",
+								"0",
+								"1"
 							],
+							"port": "8000",
 							"path": [
 								"api",
 								"adm",
@@ -1763,13 +1795,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 							]
 						},
 						"url": {
-							"raw": "http://homologacao-teste.audax.mobi/api/adm/cadastro/cons_proc/4",
-							"protocol": "http",
+							"raw": "127.0.0.1:8000/api/adm/cadastro/cons_proc/4",
 							"host": [
-								"homologacao-teste",
-								"audax",
-								"mobi"
+								"127",
+								"0",
+								"0",
+								"1"
 							],
+							"port": "8000",
 							"path": [
 								"api",
 								"adm",
@@ -1802,13 +1835,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 							"urlencoded": []
 						},
 						"url": {
-							"raw": "http://homologacao-teste.audax.mobi/api/adm/cadastro/cons_proc/4",
-							"protocol": "http",
+							"raw": "127.0.0.1:8000/api/adm/cadastro/cons_proc/4",
 							"host": [
-								"homologacao-teste",
-								"audax",
-								"mobi"
+								"127",
+								"0",
+								"0",
+								"1"
 							],
+							"port": "8000",
 							"path": [
 								"api",
 								"adm",
@@ -1844,13 +1878,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 							"urlencoded": []
 						},
 						"url": {
-							"raw": "http://homologacao-teste.audax.mobi/api/adm/cadastro/cons_proc/3",
-							"protocol": "http",
+							"raw": "127.0.0.1:8000/api/adm/cadastro/cons_proc/3",
 							"host": [
-								"homologacao-teste",
-								"audax",
-								"mobi"
+								"127",
+								"0",
+								"0",
+								"1"
 							],
+							"port": "8000",
 							"path": [
 								"api",
 								"adm",
@@ -1886,13 +1921,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 							"urlencoded": []
 						},
 						"url": {
-							"raw": "http://homologacao-teste.audax.mobi/api/adm/cadastro/cons_proc",
-							"protocol": "http",
+							"raw": "127.0.0.1:8000/api/adm/cadastro/cons_proc",
 							"host": [
-								"homologacao-teste",
-								"audax",
-								"mobi"
+								"127",
+								"0",
+								"0",
+								"1"
 							],
+							"port": "8000",
 							"path": [
 								"api",
 								"adm",
@@ -1958,13 +1994,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 									]
 								},
 								"url": {
-									"raw": "http://homologacao-teste.audax.mobi/api/func/cadastro/consulta",
-									"protocol": "http",
+									"raw": "127.0.0.1:8000/api/func/cadastro/consulta",
 									"host": [
-										"homologacao-teste",
-										"audax",
-										"mobi"
+										"127",
+										"0",
+										"0",
+										"1"
 									],
+									"port": "8000",
 									"path": [
 										"api",
 										"func",
@@ -2027,13 +2064,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 									]
 								},
 								"url": {
-									"raw": "http://homologacao-teste.audax.mobi/api/func/cadastro/consulta/7",
-									"protocol": "http",
+									"raw": "127.0.0.1:8000/api/func/cadastro/consulta/7",
 									"host": [
-										"homologacao-teste",
-										"audax",
-										"mobi"
+										"127",
+										"0",
+										"0",
+										"1"
 									],
+									"port": "8000",
 									"path": [
 										"api",
 										"func",
@@ -2066,13 +2104,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 									"urlencoded": []
 								},
 								"url": {
-									"raw": "http://homologacao-teste.audax.mobi/api/func/cadastro/consulta/7",
-									"protocol": "http",
+									"raw": "127.0.0.1:8000/api/func/cadastro/consulta/7",
 									"host": [
-										"homologacao-teste",
-										"audax",
-										"mobi"
+										"127",
+										"0",
+										"0",
+										"1"
 									],
+									"port": "8000",
 									"path": [
 										"api",
 										"func",
@@ -2108,13 +2147,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 									"urlencoded": []
 								},
 								"url": {
-									"raw": "http://homologacao-teste.audax.mobi/api/func/cadastro/consulta/5",
-									"protocol": "http",
+									"raw": "127.0.0.1:8000/api/func/cadastro/consulta/5",
 									"host": [
-										"homologacao-teste",
-										"audax",
-										"mobi"
+										"127",
+										"0",
+										"0",
+										"1"
 									],
+									"port": "8000",
 									"path": [
 										"api",
 										"func",
@@ -2150,13 +2190,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 									"urlencoded": []
 								},
 								"url": {
-									"raw": "http://homologacao-teste.audax.mobi/api/func/cadastro/consulta",
-									"protocol": "http",
+									"raw": "127.0.0.1:8000/api/func/cadastro/consulta",
 									"host": [
-										"homologacao-teste",
-										"audax",
-										"mobi"
+										"127",
+										"0",
+										"0",
+										"1"
 									],
+									"port": "8000",
 									"path": [
 										"api",
 										"func",
@@ -2204,13 +2245,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 									]
 								},
 								"url": {
-									"raw": "http://homologacao-teste.audax.mobi/api/func/cadastro/cons_proc",
-									"protocol": "http",
+									"raw": "127.0.0.1:8000/api/func/cadastro/cons_proc",
 									"host": [
-										"homologacao-teste",
-										"audax",
-										"mobi"
+										"127",
+										"0",
+										"0",
+										"1"
 									],
+									"port": "8000",
 									"path": [
 										"api",
 										"func",
@@ -2258,13 +2300,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 									]
 								},
 								"url": {
-									"raw": "http://homologacao-teste.audax.mobi/api/func/cadastro/cons_proc/4",
-									"protocol": "http",
+									"raw": "127.0.0.1:8000/api/func/cadastro/cons_proc/4",
 									"host": [
-										"homologacao-teste",
-										"audax",
-										"mobi"
+										"127",
+										"0",
+										"0",
+										"1"
 									],
+									"port": "8000",
 									"path": [
 										"api",
 										"func",
@@ -2297,13 +2340,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 									"urlencoded": []
 								},
 								"url": {
-									"raw": "http://homologacao-teste.audax.mobi/api/func/cadastro/cons_proc/4",
-									"protocol": "http",
+									"raw": "127.0.0.1:8000/api/func/cadastro/cons_proc/4",
 									"host": [
-										"homologacao-teste",
-										"audax",
-										"mobi"
+										"127",
+										"0",
+										"0",
+										"1"
 									],
+									"port": "8000",
 									"path": [
 										"api",
 										"func",
@@ -2339,13 +2383,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 									"urlencoded": []
 								},
 								"url": {
-									"raw": "http://homologacao-teste.audax.mobi/api/func/cadastro/cons_proc/3",
-									"protocol": "http",
+									"raw": "127.0.0.1:8000/api/func/cadastro/cons_proc/3",
 									"host": [
-										"homologacao-teste",
-										"audax",
-										"mobi"
+										"127",
+										"0",
+										"0",
+										"1"
 									],
+									"port": "8000",
 									"path": [
 										"api",
 										"func",
@@ -2381,13 +2426,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 									"urlencoded": []
 								},
 								"url": {
-									"raw": "http://homologacao-teste.audax.mobi/api/func/cadastro/cons_proc",
-									"protocol": "http",
+									"raw": "127.0.0.1:8000/api/func/cadastro/cons_proc",
 									"host": [
-										"homologacao-teste",
-										"audax",
-										"mobi"
+										"127",
+										"0",
+										"0",
+										"1"
 									],
+									"port": "8000",
 									"path": [
 										"api",
 										"func",
@@ -2415,18 +2461,19 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 									},
 									{
 										"key": "Authorization",
-										"value": "bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9ob21vbG9nYWNhby10ZXN0ZS5hdWRheC5tb2JpXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjYyOTIxMzgzLCJleHAiOjE2NjI5MjQ5ODMsIm5iZiI6MTY2MjkyMTM4MywianRpIjoiWHZwcmRBcjQxVlJLdm1PRSIsInN1YiI6MiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.aaq1H28ioSxktIsZpt5K5R_u0T9VQ776GuVbdSDQbHQ",
+										"value": "bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTY2MjkxNjMxMywiZXhwIjoxNjYyOTE5OTEzLCJuYmYiOjE2NjI5MTYzMTMsImp0aSI6IkdBVm40aUpWZ09qUW5JTTAiLCJzdWIiOjIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.yovtImKP3hSdVKmsJ2sUtPUNpF0Ffrnvkzt1p5T9Dio",
 										"type": "text"
 									}
 								],
 								"url": {
-									"raw": "http://homologacao-teste.audax.mobi/api/func/selecttable/plano_saude",
-									"protocol": "http",
+									"raw": "127.0.0.1:8000/api/func/selecttable/plano_saude",
 									"host": [
-										"homologacao-teste",
-										"audax",
-										"mobi"
+										"127",
+										"0",
+										"0",
+										"1"
 									],
+									"port": "8000",
 									"path": [
 										"api",
 										"func",
@@ -2454,13 +2501,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 									}
 								],
 								"url": {
-									"raw": "http://homologacao-teste.audax.mobi/api/func/selecttable/medico",
-									"protocol": "http",
+									"raw": "127.0.0.1:8000/api/func/selecttable/medico",
 									"host": [
-										"homologacao-teste",
-										"audax",
-										"mobi"
+										"127",
+										"0",
+										"0",
+										"1"
 									],
+									"port": "8000",
 									"path": [
 										"api",
 										"func",
@@ -2488,13 +2536,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 									}
 								],
 								"url": {
-									"raw": "http://homologacao-teste.audax.mobi/api/func/selecttable/procedimento",
-									"protocol": "http",
+									"raw": "127.0.0.1:8000/api/func/selecttable/procedimento",
 									"host": [
-										"homologacao-teste",
-										"audax",
-										"mobi"
+										"127",
+										"0",
+										"0",
+										"1"
 									],
+									"port": "8000",
 									"path": [
 										"api",
 										"func",
@@ -2562,13 +2611,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 									]
 								},
 								"url": {
-									"raw": "http://homologacao-teste.audax.mobi/api/func/cadastro/paciente",
-									"protocol": "http",
+									"raw": "127.0.0.1:8000/api/func/cadastro/paciente",
 									"host": [
-										"homologacao-teste",
-										"audax",
-										"mobi"
+										"127",
+										"0",
+										"0",
+										"1"
 									],
+									"port": "8000",
 									"path": [
 										"api",
 										"func",
@@ -2636,13 +2686,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 									]
 								},
 								"url": {
-									"raw": "http://homologacao-teste.audax.mobi/api/func/cadastro/paciente/3",
-									"protocol": "http",
+									"raw": "127.0.0.1:8000/api/func/cadastro/paciente/3",
 									"host": [
-										"homologacao-teste",
-										"audax",
-										"mobi"
+										"127",
+										"0",
+										"0",
+										"1"
 									],
+									"port": "8000",
 									"path": [
 										"api",
 										"func",
@@ -2678,13 +2729,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 									"urlencoded": []
 								},
 								"url": {
-									"raw": "http://homologacao-teste.audax.mobi/api/func/cadastro/paciente/1",
-									"protocol": "http",
+									"raw": "127.0.0.1:8000/api/func/cadastro/paciente/1",
 									"host": [
-										"homologacao-teste",
-										"audax",
-										"mobi"
+										"127",
+										"0",
+										"0",
+										"1"
 									],
+									"port": "8000",
 									"path": [
 										"api",
 										"func",
@@ -2717,13 +2769,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 									"urlencoded": []
 								},
 								"url": {
-									"raw": "http://homologacao-teste.audax.mobi/api/func/cadastro/paciente/3",
-									"protocol": "http",
+									"raw": "127.0.0.1:8000/api/func/cadastro/paciente/3",
 									"host": [
-										"homologacao-teste",
-										"audax",
-										"mobi"
+										"127",
+										"0",
+										"0",
+										"1"
 									],
+									"port": "8000",
 									"path": [
 										"api",
 										"func",
@@ -2759,13 +2812,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 									"urlencoded": []
 								},
 								"url": {
-									"raw": "http://homologacao-teste.audax.mobi/api/func/cadastro/paciente",
-									"protocol": "http",
+									"raw": "127.0.0.1:8000/api/func/cadastro/paciente",
 									"host": [
-										"homologacao-teste",
-										"audax",
-										"mobi"
+										"127",
+										"0",
+										"0",
+										"1"
 									],
+									"port": "8000",
 									"path": [
 										"api",
 										"func",
@@ -2813,13 +2867,14 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 									]
 								},
 								"url": {
-									"raw": "http://homologacao-teste.audax.mobi/api/func/mudar/planoSaude",
-									"protocol": "http",
+									"raw": "127.0.0.1:8000/api/func/mudar/planoSaude",
 									"host": [
-										"homologacao-teste",
-										"audax",
-										"mobi"
+										"127",
+										"0",
+										"0",
+										"1"
 									],
+									"port": "8000",
 									"path": [
 										"api",
 										"func",
@@ -2836,5 +2891,4 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 		}
 	]
 }
-
 
