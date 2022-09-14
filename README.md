@@ -2890,5 +2890,9 @@ EX:. api.json depois de fazer isso voce pode importa esse arquivo no seu POSTMAN
 			]
 		}
 	]
-}
+    
+    
+    ##modelagem
+}![modelagem](https://user-images.githubusercontent.com/81827714/190204015-2be20363-f2ec-414e-8bc8-e44d259289e1.png)
+
 
